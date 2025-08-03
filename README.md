@@ -11,12 +11,13 @@
 
 Soy **Desarrollador de Software** con más de 3 años de experiencia como freelance. Me especializo en:
 
-- **Java**, **React.js**, **Node.js**
+- Desarrollo con **Java**, **React.js**, **Node.js**
 - Bases de datos: **MySQL**, **MongoDB**
-- Servicios en la nube como **Firebase**
+- Servicios en la nube: **Firebase**
 
-También tengo experiencia en proyectos de **IoT**, usando **Arduino**, **ESP32**, sensores, módulos y circuitos electrónicos.  
-Además, he trabajado como **Analista QA**, donde realicé pruebas funcionales, documenté flujos de prueba y evalué la experiencia del usuario (UX/UI).
+También tengo experiencia en **proyectos IoT** (Arduino, ESP32, sensores, módulos y electrónica)  
+y como **Analista QA**, realizando pruebas funcionales, documentando flujos y evaluando experiencia de usuario (UX/UI).
+
 
 ---
 
@@ -40,7 +41,7 @@ Además, he trabajado como **Analista QA**, donde realicé pruebas funcionales, 
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/guillermogu24" target="_blank">
+  <a href="https://www.linkedin.com/in/guillermogu24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:jguillermogu24@gmail.com" target="_blank">
