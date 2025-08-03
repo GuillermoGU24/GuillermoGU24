@@ -1,36 +1,38 @@
-<h1 align="center">Hola 👋, Soy Guillermo Gil Ureña ⚡</h1>
-<h3 align="center">💻 Desarrollador de Software · 🔍 QA · ⚙️ IoT · 🚀 Apasionado por resolver problemas</h3>
+<h1 align="center">Hi there 👋, I'm <strong>Guillermo Gil Ureña</strong> ⚡</h1>
+
+<h3 align="center">💻 Software Dev · 🔍 QA Analyst · ⚙️ IoT Enthusiast</h3>
+<h4 align="center">🚀 I see a problem, I solve it &nbsp;&nbsp;&nbsp;🏎️ Ka-chow!</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+QA+Testing+%7C+UX%2FUI" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/guillermogu24" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="mailto:jguillermogu24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+QA+Testing+%7C+UX%2FUI" alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚡🧑‍💻 Sobre mí
+## ⚡ About Me
 
-Soy **Desarrollador de Software** con más de 3 años de experiencia como freelance. Me especializo en:
+🎯 I’m a passionate **Software Developer** with over 3 years of freelance experience, delivering solutions using:
 
-- Desarrollo con **Java**, **React.js**, **Node.js**
-- Bases de datos: **MySQL**, **MongoDB**
-- Servicios en la nube: **Firebase**
+- 🔹 **Java**, **React**, **Node.js**, **TypeScript**
+- 🔹 **Firebase**, **MySQL**, **MongoDB**
+- 🔹 **Tailwind**, **Bootstrap**, **Git**, **Linux**
 
-También tengo experiencia en **proyectos IoT** (Arduino, ESP32, sensores, módulos y electrónica)  
-y como **Analista QA**, realizando pruebas funcionales, documentando flujos y evaluando experiencia de usuario (UX/UI).
-
-
----
-
-## 🔎 Experiencia QA
-
-- ✅ Pruebas funcionales/manuales  
-- 🧪 Casos de prueba y criterios de aceptación  
-- 🧠 Evaluación de usabilidad (UX)  
-- 🐞 Reporte y seguimiento de bugs  
+💡 I’ve led end-to-end **IoT projects** with Arduino and ESP32, integrating sensors, modules, and real-time data.  
+🧪 I also have strong skills as a **QA Analyst**, crafting test flows, reporting bugs, and enhancing **user experience** through detailed functional testing.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,mysql,mongodb,html,css,tailwind,bootstrap,git,firebase,figma,postman,arduino,linux" />
@@ -38,23 +40,10 @@ y como **Analista QA**, realizando pruebas funcionales, documentando flujos y ev
 
 ---
 
-## 📫 Conecta conmigo
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillermogu24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:jguillermogu24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guillermogilu&label=Visitas&color=0e75b6&style=flat" alt="guillermogilu" />
+  <img src="https://komarev.com/ghpvc/?username=guillermogilu&label=Profile+Views&color=0e75b6&style=flat" alt="guillermogilu" />
 </p>
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil! 🚀⚡🏎️Ka-chow!</b><br/>
+  <b>Thanks for visiting!&nbsp;⚡🚀🏎️&nbsp;Ka-chow!</b>
 </p>
