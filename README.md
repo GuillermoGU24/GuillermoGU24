@@ -2,9 +2,8 @@
 <h3 align="center">💻 Desarrollador de Software · 🔍 QA · ⚙️ IoT · 🚀 Apasionado por resolver problemas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F79D&center=true&vCenter=true&width=600&height=60&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+UX%2FUI+%7C+QA+Testing;Siempre+aprendiendo+y+buscando+nuevos+retos+💪;ARAYUTO!!!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+QA+Testing+%7C+UX%2FUI" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🧑‍💻 Sobre mí
