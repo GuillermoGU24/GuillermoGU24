@@ -1,12 +1,13 @@
-<h1 align="center">Hola 👋, Soy Guillermo Gil Ureña</h1>
+<h1 align="center">Hola 👋, Soy Guillermo Gil Ureña ⚡</h1>
 <h3 align="center">💻 Desarrollador de Software · 🔍 QA · ⚙️ IoT · 🚀 Apasionado por resolver problemas</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+QA+Testing+%7C+UX%2FUI" alt="Typing SVG" />
 </p>
+
 ---
 
-## 🧑‍💻 Sobre mí
+## ⚡🧑‍💻 Sobre mí
 
 Soy **Desarrollador de Software** con más de 3 años de experiencia como freelance. Me especializo en:
 
@@ -14,18 +15,17 @@ Soy **Desarrollador de Software** con más de 3 años de experiencia como freela
 - Bases de datos: **MySQL**, **MongoDB**
 - Servicios en la nube como **Firebase**
 
-También tengo experiencia en proyectos de **IoT**, usando **Arduino**, **ESP32**, sensores, módulos y circuitos electrónicos.
-
-Además, trabajé como **Analista QA**, donde realicé pruebas funcionales, documenté flujos de prueba y evalué la experiencia del usuario (UX/UI).
+También tengo experiencia en proyectos de **IoT**, usando **Arduino**, **ESP32**, sensores, módulos y circuitos electrónicos.  
+Además, he trabajado como **Analista QA**, donde realicé pruebas funcionales, documenté flujos de prueba y evalué la experiencia del usuario (UX/UI).
 
 ---
 
 ## 🔎 Experiencia QA
 
-- ✅ Pruebas funcionales/manuales
-- 🧪 Casos de prueba y criterios de aceptación
-- 🧠 Evaluación de usabilidad (UX)
-- 🐞 Reporte y seguimiento de bugs
+- ✅ Pruebas funcionales/manuales  
+- 🧪 Casos de prueba y criterios de aceptación  
+- 🧠 Evaluación de usabilidad (UX)  
+- 🐞 Reporte y seguimiento de bugs  
 
 ---
 
@@ -40,10 +40,10 @@ Además, trabajé como **Analista QA**, donde realicé pruebas funcionales, docu
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillermogilurena/" target="_blank">
+  <a href="www.linkedin.com/in/guillermogu24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:guillermogil.dev@gmail.com" target="_blank">
+  <a href="mailto:jguillermogu24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
@@ -55,5 +55,5 @@ Además, trabajé como **Analista QA**, donde realicé pruebas funcionales, docu
 </p>
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil! 🚀</b><br/>
+  <b>¡Gracias por visitar mi perfil! 🚀⚡🏎️Ka-chow!</b><br/>
 </p>
