@@ -20,7 +20,7 @@
 
 ## ⚡ About Me
 
-I’m a **Software Developer** with 3+ years experience using **Java**, **React**, **Node.js**, **Firebase**, and **MongoDB**.  
+I’m a **Software Developer** with 3+ years experience using **Java**, **React**, **Node.js**, **Firebase**, and **DataBases**.  
 I’ve led **IoT projects** (Arduino/ESP32) and worked as a **QA Analyst**, testing functionality and improving UX.
 
 ---
