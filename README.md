@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <strong>Guillermo Gil Ureña</strong> ⚡</h1>
 
-<h3 align="center">💻 Software Dev · 🔍 QA · ⚙️ IoT · 🚀 - I see a problem, I solve it 🏎️ Ka-chow!</h3>
+<h3 align="center">💻 Software Engineer · 🚀 Full-Stack Developer · ⚙️ IoT Enthusiast - I see a problem, I solve it 🏎️ Ka-chow!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guillermogu24" target="_blank">
@@ -12,25 +12,24 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+React+%7C+Node.js+%7C+SQL+%7C+IoT+%7C+QA+%7C+UX%2FUI" alt="Typing SVG" />
-</p>
-
 ---
 
 ## ⚡ About Me
 
-I’m a **Software Developer** with 3+ years experience using **Java**, **React**, **Node.js**, **Firebase**, and **DataBases**.  
-I’ve led **IoT projects** (Arduino/ESP32) and worked as a **QA Analyst**, testing functionality and improving UX.
+I'm a **Software Engineer** with **4+ years of experience** building web applications, backend services, and IoT solutions.
+
+My main technologies include **Java**, **Spring Boot**, **React**, **Vue**, **JSP**, **Node.js**, **TypeScript**, and **SQL/NoSQL databases**. I enjoy designing scalable solutions, developing full-stack applications, and turning ideas into reliable products.
+
+Throughout my career, I've also gained experience in **software quality assurance**, strengthening my attention to detail and focus on delivering intuitive, high-quality user experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,mysql,mongodb,html,css,tailwind,bootstrap,git,firebase,figma,postman,arduino,linux" />
-</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,vite,materialui,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,git,linux,figma,postman,arduino" />
+</p>
 ---
 
 <p align="center">
